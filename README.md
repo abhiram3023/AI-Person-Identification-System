@@ -160,7 +160,7 @@ AI-Person-Identification-System/
 
 ## Clone Repository
 
-git clone https://github.com/YOUR_USERNAME/AI-Person-Identification-System.git
+git clone https://github.com/abhiram3023/AI-Person-Identification-System.git
 
 ## Move Into Folder
 
