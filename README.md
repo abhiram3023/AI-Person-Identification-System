@@ -229,9 +229,8 @@ The GUI contains:
 
 ## Main GUI
 
-![GUI](Screenshots/Project output GUI(1).png)
-![GUI](Screenshots/Project output GUI(2).png)
-![GUI](Screenshots/Project output GUI(3).png)
+![GUI](screenshots/Project_output_GUI(2).png)
+![GUI](Screenshots/Project_output_GUI(3).png)
 
 ## Real-Time Detection
 
@@ -242,3 +241,4 @@ The GUI contains:
 # Author
 
 Developed as an AI and Computer Vision project using Python and OpenCV.
+Abhiram Majeti
