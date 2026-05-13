@@ -229,8 +229,8 @@ The GUI contains:
 
 ## Main GUI
 
-![GUI](screenshots/Project_output_GUI2.png)
-![GUI](screenshots/Project_output_GUI3.png)
+![GUI](screenshots/Project_output_GUI_2.png)
+![GUI](screenshots/Project_output_GUI_3.png)
 
 ## Real-Time Detection
 
