@@ -1,0 +1,11 @@
+tk-tools
+opencv-contrib-python
+datetime
+pytest-shutil
+python-csv
+openpyxl
+numpy
+pillow 
+pandas
+times
+pyobjc-framework-Quartz
